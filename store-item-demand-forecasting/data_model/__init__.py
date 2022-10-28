@@ -1,5 +1,5 @@
-from .df import Df
-from .sr import Sr
+from .df import Features, TrFeatures, TsFeatures
+from .sr import Feature, Target, TrFeature, TsFeature, TrTarget, TsTarget
 
 
-__all__ = ["Df", "Sr"]
+__all__ = ["Feature", "Features", "Target", "TrFeature", "TrFeatures", "TrTarget", "TsFeature", "TsFeatures", "TsTarget"]

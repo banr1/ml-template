@@ -1,3 +1,5 @@
 import pandas as pd
 
-Df = pd.DataFrame
+Features = pd.DataFrame
+TrFeatures = pd.DataFrame
+TsFeatures = pd.DataFrame
