@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lob-simulation"
+name = "store-item-demand-forecasting"
 version = "0.1.0"
 description = ""
 authors = ["banr1 <banri.yanahama@gmail.com>"]

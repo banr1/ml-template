@@ -1,5 +1,5 @@
 {
-	"name": "ml-template",
+	"name": "store-item-demand-forecasting",
 	"dockerComposeFile": [
 		"../docker-compose.dev.yml"
 	],
