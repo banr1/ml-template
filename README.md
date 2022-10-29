@@ -1,7 +1,7 @@
-# ML Template
-個人的な機械学習プロジェクトのテンプレート。
+# Store Item Demand Forecasting
+需要予測プロジェクトのサンプルコード。
 
-例として「Store Item Demand Forecasting Challenge」のデータを用いた需要予測のプロジェクトと仮定する。
+「Store Item Demand Forecasting Challenge」を用いる。
 https://www.kaggle.com/competitions/demand-forecasting-kernels-only
 
 ## 命名規則
