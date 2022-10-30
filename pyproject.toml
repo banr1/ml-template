@@ -36,7 +36,7 @@ mypy_preset = "strict"
 line_length = 88
 py_version = "py310"
 [[tool.pysen.lint.mypy_targets]]
-  paths = ["./lob_simulation"]
+  paths = ["./store_item_demand_forecasting"]
 
 [build-system]
 requires = ["poetry-core"]

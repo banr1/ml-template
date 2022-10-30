@@ -2,6 +2,7 @@
 需要予測プロジェクトのサンプルコード。
 
 「Store Item Demand Forecasting Challenge」を用いる。
+
 https://www.kaggle.com/competitions/demand-forecasting-kernels-only
 
 ## 命名規則
